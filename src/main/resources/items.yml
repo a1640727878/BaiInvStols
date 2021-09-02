@@ -1,0 +1,10 @@
+pi:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2586
+  type: RED_STAINED_GLASS_PANE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '[{"text":"占位符","color":"black","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]'
+    lore:
+      - '{"text":"毫无用处的占位物品","bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false}'

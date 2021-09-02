@@ -1,0 +1,10 @@
+name: BaiInvStols
+version: @version@
+main: bai.bukkit.bis.BaiInvStols
+api-version: 1.16
+prefix: BaiInvStols
+load: STARTUP
+authors: [ sky_bai ]
+commands:
+  bis:
+    usage: /<command>

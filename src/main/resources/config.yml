@@ -1,0 +1,17 @@
+Stols:
+  "0": "pi"
+  "1": "pi"
+  "2": "pi"
+Lores:
+  "戒指":
+    unique: false
+    stols:
+      - 0
+      - 2
+  "手环":
+    unique: true
+    stols:
+      - 1
+      - 2
+Mess:
+  Unique: "词条 &{Unique} 已装备"
